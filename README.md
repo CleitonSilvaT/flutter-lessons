@@ -56,4 +56,11 @@ _Componentes de Interface - Parte 4 - (Menu de Navegação)_
 [slides](/08/slide/8_Interface_Parte5.pdf)
 
 
+* **Lesson 9**
+
+_Persistência de Dados - Parte 1_
+
+[slides](/09/slide/9_Persistencia_de_Dados_Parte1.pdf)
+
+
 _Material disponibilizado pelo Professor Ilo Rivero_
