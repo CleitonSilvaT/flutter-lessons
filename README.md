@@ -83,5 +83,10 @@ _Web Services_
 
 [slides](/12/slide/12_Web_Service.pdf)
 
-
 _Material disponibilizado pelo Professor Ilo Rivero_
+
+
+# Code Enviroment
+
+Android Studio Jellyfish | 2023.3.1 Patch 1
+Flutter Channel stable, 3.22.0
