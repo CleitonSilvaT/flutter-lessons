@@ -23,3 +23,5 @@ _Material disponibilizado pelo Professor Ilo Rivero_
 Android Studio Jellyfish | 2023.3.1 Patch 1
 
 Flutter Channel stable, 3.22.0
+
+Projects Configuration - **web** and **android**
