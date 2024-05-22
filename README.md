@@ -77,4 +77,11 @@ _Mídias: Executando Sons e Vídeos_
 [slides](/11/slide/11_Midias.pdf)
 
 
+* **Lesson 12**
+
+_Web Services_
+
+[slides](/12/slide/12_Web_Service.pdf)
+
+
 _Material disponibilizado pelo Professor Ilo Rivero_
