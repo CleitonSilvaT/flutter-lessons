@@ -63,4 +63,11 @@ _Persistência de Dados - Parte 1_
 [slides](/09/slide/9_Persistencia_de_Dados_Parte1.pdf)
 
 
+* **Lesson 10**
+
+_Persistência de Dados - Parte 2_
+
+[slides](/10/slide/10_Persistencia_de_Dados_Parte2.pdf)
+
+
 _Material disponibilizado pelo Professor Ilo Rivero_
