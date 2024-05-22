@@ -70,4 +70,11 @@ _Persistência de Dados - Parte 2_
 [slides](/10/slide/10_Persistencia_de_Dados_Parte2.pdf)
 
 
+* **Lesson 11**
+
+_Mídias: Executando Sons e Vídeos_
+
+[slides](/11/slide/11_Midias.pdf)
+
+
 _Material disponibilizado pelo Professor Ilo Rivero_
