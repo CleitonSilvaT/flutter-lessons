@@ -42,4 +42,11 @@ _Componentes de Interface - Parte 3_
 [slides](/06/slide/6_Interface_Parte3.pdf)
 
 
+* **Lesson 7**
+
+_Componentes de Interface - Parte 4_
+
+[slides](/07/slide/7_Interface_Parte4.pdf)
+
+
 _Material disponibilizado pelo Professor Ilo Rivero_
