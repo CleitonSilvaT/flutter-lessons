@@ -49,4 +49,11 @@ _Componentes de Interface - Parte 4_
 [slides](/07/slide/7_Interface_Parte4.pdf)
 
 
+* **Lesson 8**
+
+_Componentes de Interface - Parte 4 - (Menu de Navegação)_
+
+[slides](/08/slide/8_Interface_Parte5.pdf)
+
+
 _Material disponibilizado pelo Professor Ilo Rivero_
